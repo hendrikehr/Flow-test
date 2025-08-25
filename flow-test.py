@@ -1,5 +1,3 @@
-a = 1
-b = 2
-c = a + b
-
-d = Loc + c
+Localization_buffer = 1
+Localization_uncertainty = 2
+Localization_final = Localization_buffer + Localization_uncertainty + Loc
